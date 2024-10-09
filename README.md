@@ -48,9 +48,10 @@ programació.
 **Lliurament**
 
 Has d’entregar la prova tècnica a través d'un enllaç al teu repositori de GitHub. En el repositori, has d’incloure:
-• Un arxiu Jupyter Notebook amb totes les línies de codi executades i les interpretacions
+* Un arxiu Jupyter Notebook amb totes les línies de codi executades i les interpretacions
 que consideris necessàries.
-• Un arxiu README amb la següent informació:
+* Un arxiu README amb la següent informació:
+
 1. Introducció: Presentació del conjunt de dades i de les variables seleccionades.
 2. Depuració de dades: Descripció detallada de les tècniques de preprocessat aplicades
 i els criteris d’avaluació utilitzats.
