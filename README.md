@@ -60,5 +60,5 @@ i els criteris d’avaluació utilitzats.
    
 Molta sort! Esperem veure el teu projecte!
 
-Data de recepció: 8 oct 2024, 10:17 a.m
-Data de lliurament: 11 oct 2024, 10:00 a.m
+* Data de recepció: 8 oct 2024, 10:17 a.m
+* Data de lliurament: 11 oct 2024, 10:00 a.m
